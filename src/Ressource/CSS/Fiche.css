@@ -1,0 +1,29 @@
+.contenuFiche{
+    background-color: white;
+    width: 50%;
+    text-align: center;
+    border-radius:3px;
+    flex:1;
+}
+.contenuFiche h2{
+    font-size: 2em;
+    color: blue;
+}
+.contenuFiche h2:hover{
+    font-size: 2.1em;
+    color: rgb(90, 90, 247);
+}
+.image{
+    position: relative;
+        top: 10px;
+        left: 13%;
+    width: 270px;
+    height: 270px;
+    border-radius: 50%;
+    
+    overflow: hidden;
+}
+.image img{
+    position: relative;
+		right: 15px;
+}

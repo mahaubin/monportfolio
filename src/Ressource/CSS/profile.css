@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(224, 221, 221);
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+
+.headerContainer h2{
+    color:#fff;
+    font-size: 1.8em;
+    text-align: center;
+    font-weight: bold;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.ecole{
+    position: relative;
+        bottom: 20px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    flex-wrap: wrap;
+    
+}
+
+.parcourContainer{
+    background-color: #fff;
+    padding: 0px;
+    border-radius: 10px 10px 0px 0px;
+}
+.itemes{
+    background-color: rgb(245, 245, 245);
+    width: 20%;
+    border-radius: 10px;
+    padding: 10px;  
+    font-size: 1.5em;  
+    text-align: center;
+    margin: 5px;
+}
+/*css concernant la premère ligne*/
+.ligne1{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+

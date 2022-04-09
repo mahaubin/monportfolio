@@ -1,0 +1,16 @@
+.corp{
+    width: 90%;
+    margin: auto;
+}
+.fond{
+    background-color: rgb(245, 245, 245);
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+.techno{
+    margin: 10px;
+}
+.anne{
+    font-weight: bold;
+}
